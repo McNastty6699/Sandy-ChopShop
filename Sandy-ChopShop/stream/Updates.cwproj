@@ -1,0 +1,57 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>[ymap]\exterior_fence.ymap</Item>
+    <Item>[ymap]\interior_chop_stuff.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_critical_6.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_critical_7.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_long_4.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_strm_10.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_strm_3.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_strm_8.ymap</Item>
+    <Item>[ymap]\lr_cs4_02_strm_9.ymap</Item>
+    <Item>[ymap]\lr_cs4_02.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames>
+    <Item>[ybn]\hi@lr_cs4_02_4.ybn</Item>
+    <Item>[ybn]\hi@lr_cs4_02_5.ybn</Item>
+    <Item>[ybn]\lr_cs4_02_11.ybn</Item>
+    <Item>[ybn]\lr_cs4_02_12.ybn</Item>
+    <Item>[ybn]\lr_cs4_02_14.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>[ydr]\cs4_02_billbd002.ydr</Item>
+    <Item>[ydr]\cs4_02_building08_dec.ydr</Item>
+    <Item>[ydr]\cs4_02_glue_02.ydr</Item>
+    <Item>[ydr]\cs4_02_hanger.ydr</Item>
+    <Item>[ydr]\cs4_02_hanger_decal.ydr</Item>
+    <Item>[ydr]\cs4_02_land11_hs.ydr</Item>
+    <Item>[ydr]\cs4_02_sy_walla.ydr</Item>
+    <Item>[ydr]\cs4_02_sy_walla_g.ydr</Item>
+    <Item>[ydr]\cs4_02_sy_wallb.ydr</Item>
+    <Item>[ydr]\cs4_02_sy_wallc.ydr</Item>
+    <Item>[ydr]\cs4_02_temp_desk.ydr</Item>
+    <Item>[ydr]\prop_ind_crusher.ydr</Item>
+    <Item>[ydr]\prop_rub_chassis_01.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>cs4_02_building08_dec+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_billbd002+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_hanger+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_hanger_decal+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_sy_walla_g+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_sy_wallb+hidr.ytd</Item>
+    <Item>[ytd]\cs4_02_sy_wallc+hidr.ytd</Item>
+    <Item>[ytd]\prop_ind_crusher+hidr.ytd</Item>
+    <Item>[ytd]\prop_rub_chassis_01+hidr.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
